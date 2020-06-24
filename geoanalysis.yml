@@ -1,0 +1,19 @@
+name: geoanalysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - notebook=6.0
+  - pandas=1.0
+  - matplotlib=3.2
+  - seaborn=0.10
+  - shapely=1.7
+  - geopandas=0.7
+  - pycrs=1.0
+  - rasterio=1.1
+  - bokeh=2.0
+  - scikit-image=0.17
+  - contextily=1.0
+  - pysal=2.2
+  - osmnx=0.12
