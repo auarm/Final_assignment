@@ -16,3 +16,4 @@ dependencies:
   - contextily=1.0
   - pysal=2.2
   - osmnx=0.12
+  - numpy=1.17
